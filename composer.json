@@ -1,0 +1,21 @@
+{
+    "name": "dorsetdigital/silverstripe-requirementsinline",
+    "description": "Provides a mechanism to inline javscript and css from external files",
+    "type": "silverstripe-vendormodule",
+    "license": "BSD-3-Clause",
+    "keywords": ["silverstripe", "requirements", "javascript", "css"],
+    "authors": [
+        {
+            "name": "Tim Burt - Dorset Digital Ltd",
+            "email": "tim@dorset-digital.net"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4.0"
+    },
+    "autoload": {
+     "psr-4": {
+      "DorsetDigital\\SilverstripeRequirements\\": "src/"
+     }
+    }
+}
