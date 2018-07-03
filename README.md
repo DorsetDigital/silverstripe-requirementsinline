@@ -4,6 +4,12 @@ Extension of SilverStripe's requirements to allow for adding scripts and CSS inl
 Silverstripe provides a number of ways to add Javascript and CSS to your pages, but currently doesn't allow you to add inline code from external files.
 This module is a simple way to do this, meaning that you can keep your inline scripts and CSS in separate files to help with your build process, but take advantage of using them inline where needed.
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-requirementsinline/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-requirementsinline/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-requirementsinline/badges/build.png?b=master)](https://scrutinizer-ci.com/g/DorsetDigital/silverstripe-requirementsinline/build-status/master)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE.md)
+[![Version](http://img.shields.io/packagist/v/dorsetdigital/silverstripe-requirementsinline.svg?style=flat)](https://packagist.org/packages/dorsetdigital/silverstripe-requirementsinline)
+
+
 # Requirements
 * Silverstripe 4.x
 
