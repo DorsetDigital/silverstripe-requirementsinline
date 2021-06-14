@@ -1,4 +1,14 @@
 # silverstripe-requirementsinline
+
+*Please note:  This module is no longer in active development.  The functionality which this module provides can now be found in the following module:*
+
+https://github.com/DorsetDigital/silverstripe-enhanced-requirements
+
+
+----------------------------------------------------------------
+
+
+
 Extension of SilverStripe's requirements to allow for adding scripts and CSS inline from files
 
 Silverstripe provides a number of ways to add Javascript and CSS to your pages, but currently doesn't allow you to add inline code from external files.
